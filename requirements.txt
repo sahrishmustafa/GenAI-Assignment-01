@@ -8,3 +8,4 @@ tqdm
 tensorflow
 datasets
 nltk
+torchvision

@@ -293,7 +293,7 @@ Each model shares a consistent training and evaluation procedure:
 │
 ├── report.pdf # Combined project report
 ├── README.md # This documentation
-└── requirements.txt # Dependencies (PyTorch, NumPy, etc.)
+└── requirements.txt # Dependencies
 ```
 
 
